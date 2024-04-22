@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "Lynn_index.html",
+    "href": "Lynn_index.html",
+    "title": "Lynn",
+    "section": "",
+    "text": "LinkedIn\n  \n  \n    \n     Github\n  \n  \n    \n     Email\n  \n  \n    \n     Resume\n  \n\n  \n  \n\n\n\nMy Cute Cats"
+  },
+  {
+    "objectID": "Lynn_index.html#education",
+    "href": "Lynn_index.html#education",
+    "title": "Lynn",
+    "section": "Education",
+    "text": "Education\nUniversity of California, Los Angeles | Los Angeles, CA\n\nMaster of Applied Statistics and Data Science\nBachelor of Science, Statistics"
+  },
+  {
+    "objectID": "Lynn_index.html#experience",
+    "href": "Lynn_index.html#experience",
+    "title": "Lynn",
+    "section": "Experience",
+    "text": "Experience\nUCLA | Data Analytics | July 2023 - present"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Project",
+    "section": "",
+    "text": "Bike Rental Count Prediction\n● Utilized Python for predictive analysis of bike rental demand, employing Linear Regression, Decision Tree, and Random Forest models with cross-validation, achieving 98% accuracy.\n\n\nPima Indians Diabetes\n● Used R to diagnostically predict patient diabetes risk and identified the variables having strong correlation with diabetes through stepwise function, visualized the coefficient, correlation, variable odds ratio, and CI. Result in an overall prediction accuracy of 80%.\n\n\nNew York Airbnb Marketing Analysis\n● Developed a marketing data analysis for New York Airbnb listings, creating data visualizations in Tableau and constructing a dedicated website for presenting research findings.\n\n\nModel for Breast Cancer Prediction\n● Predicted breast cancer with Stepwise Logistic Regression, LDA, QDA, Random Forest and Tree models, selected features by importance and achieved the baseline accuracy of 67%."
+  }
+]
