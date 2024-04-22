@@ -1,0 +1,29 @@
+---
+title: "Lynn"
+about:
+  template: trestles
+  image: wanling.jpg
+  image-shape: round
+  links:
+    - icon: file-text
+      text: LinkedIn
+      href: https://www.linkedin.com/in/wanling-lynn/  
+    - icon: github
+      text: Github
+      href: https://github.com/Wanling-Lynn 
+    - icon: envelope
+      text: Email
+      href: mailto:wanling123@g.ucla.edu
+    - icon: file-text
+      text: Resume
+      href: resume.pdf
+  id: ppc
+---
+
+This is a Quarto website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+```{r}
+1 + 1
+```
