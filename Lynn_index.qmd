@@ -19,11 +19,23 @@ about:
       href: resume.pdf
   id: ppc
 ---
+:::{#ppc}
 
-This is a Quarto website.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+![My Cute Cats](cat.jpg)
 
-```{r}
-1 + 1
-```
+:::
+
+
+## Education
+
+University of California, Los Angeles | Los Angeles, CA
+
+- Master of Applied Statistics and Data Science
+
+- Bachelor of Science, Statistics
+
+
+## Experience
+
+UCLA | Data Analytics | July 2023 - present
